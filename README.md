@@ -25,3 +25,6 @@ After this assignment, you should be able to:
 4. Run and interact with the app in your development environment, including using the debugger to interactively track down bugs and inspect application state, such as the parameters supplied to a controller action
 
 5. Deploy the app to the public cloud, in this case using Heroku's Platform-as-a-Service (PaaS) facility
+
+[
+](https://rottenpotatoes-cz.herokuapp.com/ | https://git.heroku.com/rottenpotatoes-cz.git)
